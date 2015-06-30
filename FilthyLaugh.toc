@@ -1,0 +1,5 @@
+## Interface: 60200
+## Title: Laugh when you get a killing blow
+## Version: 0.0.1
+## Author: Nuggs
+FilthyLaugh.lua
